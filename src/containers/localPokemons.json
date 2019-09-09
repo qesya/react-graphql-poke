@@ -1,0 +1,128 @@
+{
+  "pokemons": [
+    {
+      "id": "UG9rZW1vbjowMDE=",
+      "number": "001",
+      "name": "Bulbasaur",
+      "maxCP": 951,
+      "maxHP": 1071,
+      "image": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "__typename": "Pokemon"
+    },
+    {
+      "id": "UG9rZW1vbjowMDI=",
+      "number": "002",
+      "name": "Ivysaur",
+      "maxCP": 1483,
+      "maxHP": 1632,
+      "image": "https://img.pokemondb.net/artwork/ivysaur.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "__typename": "Pokemon"
+    },
+    {
+      "id": "UG9rZW1vbjowMDM=",
+      "number": "003",
+      "name": "Venusaur",
+      "maxCP": 2392,
+      "maxHP": 2580,
+      "image": "https://img.pokemondb.net/artwork/venusaur.jpg",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "__typename": "Pokemon"
+    },
+    {
+      "id": "UG9rZW1vbjowMDQ=",
+      "number": "004",
+      "name": "Charmander",
+      "maxCP": 841,
+      "maxHP": 955,
+      "image": "https://img.pokemondb.net/artwork/charmander.jpg",
+      "types": [
+        "Fire"
+      ],
+      "__typename": "Pokemon"
+    },
+    {
+      "id": "UG9rZW1vbjowMDU=",
+      "number": "005",
+      "name": "Charmeleon",
+      "maxCP": 1411,
+      "maxHP": 1557,
+      "image": "https://img.pokemondb.net/artwork/charmeleon.jpg",
+      "types": [
+        "Fire"
+      ],
+      "__typename": "Pokemon"
+    },
+    {
+      "id": "UG9rZW1vbjowMDY=",
+      "number": "006",
+      "name": "Charizard",
+      "maxCP": 2413,
+      "maxHP": 2602,
+      "image": "https://img.pokemondb.net/artwork/charizard.jpg",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "__typename": "Pokemon"
+    },
+    {
+      "id": "UG9rZW1vbjowMDc=",
+      "number": "007",
+      "name": "Squirtle",
+      "maxCP": 891,
+      "maxHP": 1008,
+      "image": "https://img.pokemondb.net/artwork/squirtle.jpg",
+      "types": [
+        "Water"
+      ],
+      "__typename": "Pokemon"
+    },
+    {
+      "id": "UG9rZW1vbjowMDg=",
+      "number": "008",
+      "name": "Wartortle",
+      "maxCP": 1435,
+      "maxHP": 1582,
+      "image": "https://img.pokemondb.net/artwork/wartortle.jpg",
+      "types": [
+        "Water"
+      ],
+      "__typename": "Pokemon"
+    },
+    {
+      "id": "UG9rZW1vbjowMDk=",
+      "number": "009",
+      "name": "Blastoise",
+      "maxCP": 2355,
+      "maxHP": 2542,
+      "image": "https://img.pokemondb.net/artwork/blastoise.jpg",
+      "types": [
+        "Water"
+      ],
+      "__typename": "Pokemon"
+    },
+    {
+      "id": "UG9rZW1vbjowMTA=",
+      "number": "010",
+      "name": "Caterpie",
+      "maxCP": 367,
+      "maxHP": 443,
+      "image": "https://img.pokemondb.net/artwork/caterpie.jpg",
+      "types": [
+        "Bug"
+      ],
+      "__typename": "Pokemon"
+    }
+  ]
+}
